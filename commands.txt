@@ -1,0 +1,3 @@
+
+hostname
+# echo -e "***\n" | sudo -S "apt-get update -y"
